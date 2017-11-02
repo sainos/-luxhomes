@@ -1,0 +1,43 @@
+nav.bg-light{
+  background-color: DeepSkyBlue!important;
+
+}
+
+.top-spacer{
+    padding-top: 2%;
+}
+
+.md-top-spacer{
+    padding-top: 8%;
+}
+
+.price-center{
+  padding-left: 4.5%;
+}
+
+.price-font{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+
+table, th, td{
+  border: 2px solid LightGrey;
+}
+
+th, td{
+  width: 170px;
+  text-align: center;
+}
+
+.img-spacer{
+    padding-bottom: 3%;
+}
+
+.description{
+  padding-top: 3%;
+  font-size: 20px;
+}
+
+.img-resize{
+  width: 1022px;
+}
